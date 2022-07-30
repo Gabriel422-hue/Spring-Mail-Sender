@@ -1,4 +1,3 @@
-<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
 # Enviando e-mails personalizados com Spring Java Mail Sender e Thymeleaf Template Engine
 
